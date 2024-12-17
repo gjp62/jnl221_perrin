@@ -41,6 +41,15 @@ h2{
 	}
 iframe{
 	align-content: center;
+	border: navyblue;
+	border-width: 5px;
+	border-style: groove;
+	background-color: #D1FFBD;
+}
+img{
+	float: right;
+	margin-right: 5%;
+	margin-left: 5%;
 }
 
 
